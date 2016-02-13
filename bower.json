@@ -1,0 +1,23 @@
+{
+  "name": "es6react",
+  "description": "",
+  "main": "app/main.js",
+  "authors": [
+    "Emre YILMAZ <emreyilmaz@yandex.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.0"
+  }
+}
